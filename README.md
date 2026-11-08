@@ -1,10 +1,10 @@
 # Visitor Pattern: Advanced File System
 
-**Author:**Mumina Mukazhan
+Author:Mumina Mukazhan
 
-**Group:**SE-2530
+Group:SE-2530
 
-Assignment 06, ShP-2216 Software Design Patterns, Astana IT University.
+Assignment 06
 
 An in-memory hierarchical file system with three independent operations implemented through the Visitor pattern: total size, filtered search and tree statistics.
 
